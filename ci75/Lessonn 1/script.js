@@ -1,36 +1,36 @@
-// // BÀI 1
+// BÀI 1
 
-// let array1 = [
-//     "a",
-//     "b",
-//     "c",
-//     "d",
-//     "e",
-//     "f",
-// ]
-// console.log (array1.reverse())
+let array1 = [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+]
+console.log (array1.reverse())
 
 
-// // BÀI 2
+// BÀI 2
 
-// let array2 = [
-//     1,
-//     2,
-//     3,
-//     5,
-//     4,
-//     2,
-//     6,
-//     4,
-// ]
+let array2 = [
+    1,
+    2,
+    3,
+    5,
+    4,
+    2,
+    6,
+    4,
+]
 
-// let newArray2 = []
-// for (let i = 0 ; i < array2.length ; i++) {
-//     if (!newArray2.includes(array2[i])) {
-//         newArray2.push(array2[i])
-//     }
-// }
-// console.log(newArray2)
+let newArray2 = []
+for (let i = 0 ; i < array2.length ; i++) {
+    if (!newArray2.includes(array2[i])) {
+        newArray2.push(array2[i])
+    }
+}
+console.log(newArray2)
 
 
 // BÀI 3
