@@ -1,9 +1,9 @@
 import React, { useEffect } from 'react'
 
 function ScrollTop() {
-    useEffect(handleClick = () => {
-        document.documentElement.scrollTop = 0
-    })
+    const handleClick = () => {
+        document.documentElement.scrollTop = "0"
+    }
 
   return (
     <div>
